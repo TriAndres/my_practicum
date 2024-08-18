@@ -1,8 +1,8 @@
 
 
-Спринт 9/23: 10 → Тема 4/7: Аннотации → Урок 3/8
+Спринт 9/23: 10 → Тема 4/7: Аннотации → Урок 5/8
 
-https://practicum.yandex.ru/trainer/java-developer/lesson/4c083f07-5716-4a60-9c8a-d3f688ac9a35/task/8706cbe8-8403-467c-8b1c-d3c7360d7873/?hideTheory=1
+https://practicum.yandex.ru/learn/java-developer/courses/5b618f32-1258-4f71-b44c-973a3ca6ebbe/sprints/208594/topics/f341e820-adb4-4246-89d8-257f781b91cc/lessons/8f0cbe2b-47f9-454d-975a-f805540d26e6/
 
 
 

@@ -1,4 +1,4 @@
-package ru.yandex.practicum;
+package ru.yandex.practicum.lesson_3;
 
 public @interface Permission {
     // название разрешения — по умолчанию пусто
@@ -10,7 +10,7 @@ public @interface Permission {
 }
 
 
-//public @interface ru.yandex.practicum.Permission {
+//public @interface ru.yandex.practicum.lesson1_2.Permission {
 //    // первый элемент: название разрешения
 //    String value();
 //    // второй элемент: уровень разрешения

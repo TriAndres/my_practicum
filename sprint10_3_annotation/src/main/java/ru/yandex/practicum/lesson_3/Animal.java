@@ -1,4 +1,4 @@
-package ru.yandex.practicum;
+package ru.yandex.practicum.lesson_3;
 
 class Animal {
     void makeSound() {
@@ -9,7 +9,7 @@ class Animal {
 class Cat extends Animal {
 
     /* Указываем, что реализация метода makeSound
-       переопределяет реализацию этого же метода из класса ru.yandex.practicum.Animal. */
+       переопределяет реализацию этого же метода из класса ru.yandex.practicum.lesson1_2.Animal. */
     @Override
     void makeSound() {
         System.out.println("Мяу");
