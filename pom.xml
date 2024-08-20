@@ -18,6 +18,7 @@
         <module>musrec</module>
         <module>minersl4j</module>
         <module>sprint1_2_data_types</module>
+        <module>sprint10_4_lombok</module>
     </modules>
 
     <properties>
