@@ -5,9 +5,9 @@ https://practicum.yandex.ru/learn/java-developer/courses/f3f8cbf3-865d-4b16-9339
 
 ===============================================================================
 
-Спринт 9/23: 10 → Тема 5/7: Lombok → Урок 2/5
+Спринт 9/23: 10 → Тема 5/7: Lombok → Урок 4/5
 
-https://practicum.yandex.ru/trainer/java-developer/lesson/cc4caaa9-8f04-413f-a164-d49e3d14d85c/
+https://practicum.yandex.ru/trainer/java-developer/lesson/50723b5f-abe8-4d47-a0d8-d1bb53f67ef6/
 
 
 
