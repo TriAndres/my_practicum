@@ -5,9 +5,9 @@ https://practicum.yandex.ru/learn/java-developer/courses/f3f8cbf3-865d-4b16-9339
 
 ===============================================================================
 
-Спринт 9/23: 10 → Тема 5/7: Lombok → Урок 4/5
+Спринт 9/23: 10 → Тема 6/7: REST и Spring Boot → Урок 2/7
 
-https://practicum.yandex.ru/trainer/java-developer/lesson/50723b5f-abe8-4d47-a0d8-d1bb53f67ef6/
+https://practicum.yandex.ru/learn/java-developer/courses/5b618f32-1258-4f71-b44c-973a3ca6ebbe/sprints/208594/topics/1bb44ea0-0c24-4ad6-8743-a72dd2b17fc9/lessons/dd7be6bc-aa68-4032-b4ed-87d2215133d7/
 
 
 
