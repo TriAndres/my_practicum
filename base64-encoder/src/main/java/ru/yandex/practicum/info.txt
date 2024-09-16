@@ -1,0 +1,31 @@
+https://practicum.yandex.ru/learn/java-developer/courses/5b618f32-1258-4f71-b44c-973a3ca6ebbe/sprints/235720/topics/8e94228a-adab-4c4f-a440-f9e26130ea95/lessons/f00b7b0e-2db4-40fb-8d6a-621de0b7719b/
+
+https://github.com/praktikum-java/base64-encoder
+
+https://central.sonatype.com/artifact/commons-codec/commons-codec/1.15?smo=true
+
+-----------------------------------------------------------------------------------
+
+
+
+Потренируйтесь искать и подключать новые зависимости. Склонируйте проект из github-репозитория.
+ Этот проект позволяет кодировать с помощью алгоритма Base64 произвольную строку, введённую
+  пользователем. Метод main в классе Encoder содержит следующий код:
+final Scanner scanner = new Scanner(System.in);
+System.out.print("Введите строку => ");
+final String input = scanner.nextLine();
+final String encoded = org.apache.commons.codec.binary.Base64.encodeBase64String(
+    input.getBytes()
+);
+System.out.println(encoded);
+
+После этого найдите и подключите зависимость с такими настройками:
+groupId: commons-codec,
+artifactId: commons-codec,
+version: 1.15.
+Затем запустите программу и введите слово practicum. Вставьте в поле ввода строку, которую
+вывела программа.
+Ваш ответ неправильный
+eXl5eXl5
+Зависимость можно найти тут. Проверьте, что вы синхронизировали проект после добавления
+ зависимости и ввели practicum в нижнем регистре.

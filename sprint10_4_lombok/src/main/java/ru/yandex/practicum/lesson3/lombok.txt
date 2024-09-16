@@ -1,6 +1,0 @@
-@Getter/@Setter;
-@ToString;
-@EqualsAndHashCode;
-@NoArgsConstructor, @AllArgsConstructor и @RequiredArgsConstructor;
-@Data;
-@NonNull.

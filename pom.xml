@@ -5,20 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.yandex.practicum</groupId>
-    <artifactId>my_practicum_spring</artifactId>
+    <artifactId>practicum_my_v2</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-
-        <module>sprint10_1_maven</module>
-        <module>sprint10_2_slf4</module>
-        <module>sprint10_3_annotation</module>
         <module>base64-encoder</module>
         <module>maven-surefire-practice</module>
         <module>musrec</module>
-        <module>minersl4j</module>
-        <module>sprint1_2_data_types</module>
-        <module>sprint10_4_lombok</module>
     </modules>
 
     <properties>
