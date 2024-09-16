@@ -1,4 +1,4 @@
-package ru.yandex.practicum.musrec.console;
+package ru.yandex.practicum.console;
 
 import ru.yandex.practicum.musrec.recommender.Recommender;
 import ru.yandex.practicum.musrec.recommender.RecommenderImpl;

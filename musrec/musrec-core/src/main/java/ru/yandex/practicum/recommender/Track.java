@@ -1,4 +1,4 @@
-package ru.yandex.practicum.musrec.recommender;
+package ru.yandex.practicum.recommender;
 
 public class Track {
 

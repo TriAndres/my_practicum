@@ -1,4 +1,4 @@
-package ru.yandex.practicum.musrec.recommender;
+package ru.yandex.practicum.recommender;
 
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 
