@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Самый первый тег - это всегда тег <project>. В его атрибутах -->
+<!-- указаны пространство имен и схема, которые использует maven  -->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <!-- В этом теге указана версия объектной модели описания сборки. -->
+    <!-- В настоящее время поддерживается только версия 4.0.0           -->
+    <modelVersion>4.0.0</modelVersion>
+    <!-- Координаты артефакта, который появится -->
+    <!-- в результате сборки вашего проекта     -->
+    <groupId>ru.practicum</groupId>
+    <artifactId>sprint_10_maven</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    <!-- закрывающая часть тега <project>, означает конец описания сборки -->
+</project>
+
