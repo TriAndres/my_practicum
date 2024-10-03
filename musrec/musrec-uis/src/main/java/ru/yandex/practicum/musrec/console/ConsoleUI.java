@@ -1,8 +1,11 @@
-package ru.yandex.practicum.console;
+package ru.yandex.practicum.musrec.console;
 
-import ru.yandex.practicum.recommender.Recommender;
-import ru.yandex.practicum.recommender.RecommenderImpl;
-import ru.yandex.practicum.recommender.Track;
+//import ru.yandex.practicum.recommender.Recommender;
+//import ru.yandex.practicum.recommender.RecommenderImpl;
+//import ru.yandex.practicum.recommender.Track;
+
+import ru.yandex.practicum.musrec.recommender.*;
+
 
 import java.util.Scanner;
 
